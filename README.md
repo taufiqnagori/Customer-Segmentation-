@@ -29,3 +29,29 @@ The dataset consists of following five features of 200 customers:
 - Age: Age of the customer
 - Annual Income (k$): Annual Income of the customer
 - Spending Score (1-100): Score assigned by the mall based on customer behavior and spending nature.
+
+## Prerequisites
+
+To run this project, you need to have Python 3 installed on your system along with the following libraries:
+
+- pandas
+- matplotlib
+- tkinter
+- sklearn
+
+## Installation
+
+You can install the required libraries using pip. Open a command prompt or terminal and run the following command:
+
+## Usage
+
+To use this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open a command prompt or terminal and navigate to the project directory.
+3. Run the customer_seg.py file in Visual Studio Code or other IDE.
+4. Select the CSV file, features and Clusters of the CSV File and Click the Segemnt Clusters Button to get the Output.
+
+## Licence
+
+This project is licensed under the MIT License - see the LICENSE file for details.
